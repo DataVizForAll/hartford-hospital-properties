@@ -2,10 +2,9 @@
 
 ## Live links (replace with your own)
 
-Demo map: https://jackdougherty.github.io/hartford-hospital-properties/
+Demo map: https://datavizforall.github.io/hartford-hospital-properties/
 
 Google Sheet: https://docs.google.com/spreadsheets/d/1nKXfZMYEjnUcmxhEUJFBe3FCFhLBjYIkOLOA6mVcYw8/edit#gid=0
-
 
 ## about leaflet-point-map-sidebar
 Leaflet Point Map with Sidebar with Google Sheets -- Best to display points as custom thumbnail photo icons, organized by category, with a sidebar to show a multi-paragraph description and multi-image gallery for each point. Edit and host all text in a linked Google Sheet or CSV file, with pathnames to images stored in your GitHub repo.
